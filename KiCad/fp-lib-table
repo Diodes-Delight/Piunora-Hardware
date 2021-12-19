@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Piunora")(type "KiCad")(uri "$(KIPRJMOD)/Piunora.pretty")(options "")(descr ""))
+)

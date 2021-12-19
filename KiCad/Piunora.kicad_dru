@@ -1,0 +1,8 @@
+(version 1)
+(rule "class 1:1"
+  (condition "A.NetClass == '90ohm' && B.NetClass == '90ohm'")
+  (constraint clearance (min 0.1016mm)))
+
+(rule "class 2:2"
+  (condition "A.NetClass == '100ohm' && B.NetClass == '100ohm'")
+  (constraint clearance (min 0.127mm)))

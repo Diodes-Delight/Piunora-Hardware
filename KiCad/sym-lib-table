@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Piunora-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Piunora-eagle-import.kicad_sym")(options "")(descr ""))
+)
